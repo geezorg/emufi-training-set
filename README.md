@@ -56,7 +56,7 @@ The PEM resources contain the following license link which indicates that there 
 #### C0776 Item 61
 **Title:**  | Princeton Ethiopic Manuscript No. 61: Homilies and Miracles of St. Michael
 ------------|---------------------------------
-**Home:**   | <https://findingaids.princeton.edu/catalog/C0776_c1384>
+**Home:**   | <https://findingaids.princeton.edu/catalog/C0776_c01260>
 **Date:**   | 1800s
 **Folios:** | 352 - 364 (13 pages)
 
