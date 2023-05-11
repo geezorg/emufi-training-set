@@ -27,7 +27,7 @@ The British Library digitized manuscripts collection contain the following usage
 **Folios:** | f2.r - f7.v (12 pages)
 
 #### OR 649
-**Title:**  | ታምረ፡ ማርያም , Miracles of the blessed Virgin Mary
+**Title:**  | ታምረ፡ ማርያም , Miracles of the blessed Virgin Mary.
 ------------|---------------------------------
 **Home:**   | <http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_649>
 **Date:**   | 18th century
@@ -35,7 +35,7 @@ The British Library digitized manuscripts collection contain the following usage
 
 
 #### OR 699
-**Title:**  | ገድሎሙ ለቅዱሳን በረላም ወይዋስፉ. The History of Baralam and Yewasef.
+**Title:**  | ገድሎሙ ለቅዱሳን በረላም ወይዋስፉ, The History of Baralam and Yewasef.
 ------------|---------------------------------
 **Home:**   | <http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_699>
 **Date:**   | 1746-1755
@@ -54,14 +54,14 @@ The British Library digitized manuscripts collection contain the following usage
 The PEM resources contain the following license link which indicates that there is no known copyright associated with the artifact: <https://rightsstatements.org/page/NKC/1.0/?language=en>
 
 #### C0776 Item 61
-**Title:**  | Princeton Ethiopic Manuscript No. 61: Homilies and Miracles of St. Michael
+**Title:**  | Princeton Ethiopic Manuscript No. 61: Homilies and Miracles of St. Michael.
 ------------|---------------------------------
 **Home:**   | <https://findingaids.princeton.edu/catalog/C0776_c01260>
 **Date:**   | 1800s
 **Folios:** | 352 - 364 (13 pages)
 
 #### C0776 Item 65
-**Title:**  | Princeton Ethiopic Manuscript No. 65: Miracles of Mary
+**Title:**  | Princeton Ethiopic Manuscript No. 65: Miracles of Mary.
 ------------|---------------------------------
 **Home:**   | <https://findingaids.princeton.edu/catalog/C0776_c1384>
 **Date:**   | circa 1720
